@@ -11,6 +11,7 @@
 	<groupId>com.pipeline</groupId>
 	<artifactId>TestPipeline</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>TestPipeline</name>
 	<description>Testing Jenkins Pipeline</description>
 	<properties>
